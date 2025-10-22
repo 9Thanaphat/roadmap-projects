@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "description": "Learn NodeJS",
+    "status": "todo",
+    "createdAt": "2025-10-22T11:33:59.639Z",
+    "updatedAt": "2025-10-22T11:33:59.646Z"
+  },
+  {
+    "id": 2,
+    "description": "Learn ReactJS",
+    "status": "todo",
+    "createdAt": "2025-10-22T11:34:05.180Z",
+    "updatedAt": "2025-10-22T11:34:05.181Z"
+  }
+]
